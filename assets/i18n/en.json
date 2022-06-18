@@ -1,7 +1,33 @@
 {
+  "AUFENTHALTSDULDUNG": {
+    "SHORT_DEFINITION": "Temporary protection against deportation",
+    "TITLE": "Aufenthaltsduldung"
+  },
+  "AUFFENTHALTSGESTATTUNG": {
+    "SHORT_DEFINITION": "Preliminary permit to remain during the procedure of asylum",
+    "TITLE": "Aufenthaltsgestattung"
+  },
+  "AUFFENTHALTSTITEL_BEFRISTET": {
+    "SHORT_DEFINITION": "Permission for entry and temporary residency in Germany",
+    "TITLE": "Aufenthaltstitel - Befristet"
+  },
+  "AUFFENTHALTSTITEL_UNBEFRISTET": {
+    "SHORT_DEFINITION": "Permission for entry and permanent residency in Germany",
+    "TITLE": "Aufenthaltstitel - Unbefristet"
+  },
   "COMMON": {
     "ABOUT_US": "About us",
+    "CATEGORY": "Categories",
+    "CLOSE": "Close",
     "HOME": "Home"
   },
-  "Hello": "Hello"
+  "EINBUERGERUNG": {
+    "SHORT_DEFINITION": "Acquisition of citizenship",
+    "TITLE": "Naturalization"
+  },
+  "RESIDENCE_STATUS": {
+    "CATEGORY": "Category of Residence Status",
+    "SHORT_DEFINITION": "Different legal types of residency in Germany",
+    "TITLE": "Residence Status"
+  }
 }

@@ -1,7 +1,33 @@
 {
+  "AUFENTHALTSDULDUNG": {
+    "SHORT_DEFINITION": "Vorübergehende Aussetzung der Abschiebung",
+    "TITLE": "Aufenthaltsduldung"
+  },
+  "AUFFENTHALTSGESTATTUNG": {
+    "SHORT_DEFINITION": "Status während des Asylverfahrens",
+    "TITLE": "Aufenthaltsgestattung"
+  },
+  "AUFFENTHALTSTITEL_BEFRISTET": {
+    "SHORT_DEFINITION": "Berechtigung zur Einreise und zum zeitlich befristeten Aufenthalt in Deutschland",
+    "TITLE": "Aufenthaltstitel - Befristet"
+  },
+  "AUFFENTHALTSTITEL_UNBEFRISTET": {
+    "SHORT_DEFINITION": "Berechtigung zur Einreise und zum zeitlich unbefristeten Aufenthalt in Deutschland",
+    "TITLE": "Aufenthaltstitel - Unbefristet"
+  },
   "COMMON": {
     "ABOUT_US": "Über uns",
+    "CATEGORY": "Kategorien",
+    "CLOSE": "Schließen",
     "HOME": "Home"
   },
-  "Hello": "Hallo"
+  "EINBUERGERUNG": {
+    "SHORT_DEFINITION": "Erwerb der deutschen Staatsbürgerschaft",
+    "TITLE": "Einbürgerung"
+  },
+  "RESIDENCE_STATUS": {
+    "CATEGORY": "Kategorie des Aufenthaltsstatuses",
+    "SHORT_DEFINITION": "Verschiedene Arten des legalen Aufenthalts in Deutschland",
+    "TITLE": "Aufenthaltsstatus"
+  }
 }
