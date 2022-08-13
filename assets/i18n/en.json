@@ -9,11 +9,11 @@
   },
   "AUFFENTHALTSTITEL_BEFRISTET": {
     "SHORT_DEFINITION": "Permission for entry and temporary residency in Germany",
-    "TITLE": "Aufenthaltstitel - Befristet"
+    "TITLE": "Aufenthaltstitel - Limited"
   },
   "AUFFENTHALTSTITEL_UNBEFRISTET": {
     "SHORT_DEFINITION": "Permission for entry and permanent residency in Germany",
-    "TITLE": "Aufenthaltstitel - Unbefristet"
+    "TITLE": "Aufenthaltstitel - Unlimited"
   },
   "COMMON": {
     "ABOUT_US": "About us",
@@ -26,8 +26,28 @@
     "TITLE": "Naturalization"
   },
   "RESIDENCE_STATUS": {
-    "CATEGORY": "Category of Residence Status",
+    "CATEGORY": "Categories of Residence Status",
     "SHORT_DEFINITION": "Different legal types of residency in Germany",
     "TITLE": "Residence Status"
+  },
+  "UNBEFRISTET": {
+    "DAUER_EU": {
+      "SHORT_DEFINITION": "Long-term residence permit with simplified requirements for a stay in the EU.",
+      "TITLE": "Erlaubnis zum Daueraufenthalt-EU"
+    },
+    "NIEDERLASSUNG": {
+      "CHARACTERISTIC": {
+        "TITLE": "Characteristics"
+      },
+      "REQUIREMENT": {
+        "TITLE": "Requirements"
+      },
+      "RIGHT_AND_DUTY": {
+        "TITLE": "Rights and Duties"
+      },
+      "SHORT_DEFINITION": "Temporarily and geographically unlimited residence permit within the Federal Republic of Germany with free choice of occupation.",
+      "TITLE": "Niederlassungserlaubnis"
+    },
+    "TITLE": "Aufenthaltstitel - Unlimited"
   }
 }

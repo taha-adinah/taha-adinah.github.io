@@ -26,8 +26,28 @@
     "TITLE": "Einbürgerung"
   },
   "RESIDENCE_STATUS": {
-    "CATEGORY": "Kategorie des Aufenthaltsstatuses",
+    "CATEGORY": "Kategorien des Aufenthaltsstatuses",
     "SHORT_DEFINITION": "Verschiedene Arten des legalen Aufenthalts in Deutschland",
     "TITLE": "Aufenthaltsstatus"
+  },
+  "UNBEFRISTET": {
+    "DAUER_EU": {
+      "SHORT_DEFINITION": "Daueraufenthaltserlaubnis für die BRD mit erleichterten Voraussetzungen für einen Aufenthalt in der EU.",
+      "TITLE": "Erlaubnis zum Daueraufenthalt-EU"
+    },
+    "NIEDERLASSUNG": {
+      "CHARACTERISTIC": {
+        "TITLE": "Merkmale"
+      },
+      "REQUIREMENT": {
+        "TITLE": "Voraussetzungen"
+      },
+      "RIGHT_AND_DUTY": {
+        "TITLE": "Rechte und Pflichten"
+      },
+      "SHORT_DEFINITION": "Zeitlich und innerhalb der BRD räumlich unbegrenzter Aufenhalttitel mit freier Berufswahl.",
+      "TITLE": "Niederlassungserlaubnis"
+    },
+    "TITLE": "Aufenthaltstitel - Unbefristet"
   }
 }
